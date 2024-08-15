@@ -5,10 +5,11 @@ An ESP32 BLE device called the **Beacon** is worn by the blind user, which const
 
 An ESP32 BLE device called the **Node** is placed on various objects around the home, whenever the blind user wearing a beacon comes close to any object with a Node, the Node beeps.
 
-Below is a vide demonstration
+Below is a video demonstration
 
 # Video Demonstration
-{% embed https://youtu.be/sop1mlLl-eI %}
+https://youtu.be/sop1mlLl-eI
+
 
 To read more on how to build this project click [here](https://www.hackster.io/pius4109/blind-assist-an-esp32-based-ble-proximity-detection-device-5fa946).
 
